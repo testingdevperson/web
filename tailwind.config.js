@@ -8,6 +8,9 @@ export default {
     extend: {
       colors: {
         border: '#e5e7eb',
+        background: '#ffffff',
+        foreground: '#1f2937',
+        ring: '#3b82f6',
         primary: {
           50: '#eff6ff',
           100: '#dbeafe',
